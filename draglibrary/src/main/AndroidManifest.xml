@@ -1,3 +1,11 @@
-<manifest package="com.release.draglibrary">
+<manifest package="com.release.draglibrary"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <application>
+
+        <service android:name=".FloatingWindowButton"></service>
+<!--        <service android:name=".FloatingImageDisplayService"></service>-->
+<!--        <service android:name=".FloatingVideoService"></service>-->
+    </application>
 
 </manifest>
